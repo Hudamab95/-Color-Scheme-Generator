@@ -9,9 +9,9 @@
 
 ## Users are allowed to:
 
-select the color from the color pallette
-select generating mode, out of monochrome, analogic, complement and many more
-click on one of the five colors generated to copy its hex value to the clipboard
+- select the color from the color pallette
+- select generating mode, out of monochrome, analogic, complement and many more
+- click on one of the five colors generated to copy its hex value to the clipboard
 
 ## Built With
 
@@ -21,4 +21,4 @@ click on one of the five colors generated to copy its hex value to the clipboard
 
 ## Live Demo
 
-- Live Site URL: [Here](https://restaurant-ordering-app-project.netlify.app)
+- Live Site URL: [Here]()
