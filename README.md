@@ -4,7 +4,7 @@
 ![image](screenshot.png)
 
 ## Description
-+ "Color Scheme Generator" is a simple website that displays different color schemes. You pick a color of your choice from the color input and select a scheme of your choice and get a corresponding color scheme delivered to you. The color scheme is fetched using the color API. This is part of the Scrimba Front-End Career Path projects
++ "Color Scheme Generator" is a simple website that displays different color schemes. You pick a color of your choice from the color input and select a scheme of your choice and get a corresponding color scheme delivered to you. The color scheme is fetched using the color API.
   + This project is a part of the Scrimba Front-End Career Path projects.
 
 ## Users are allowed to:
@@ -21,4 +21,4 @@
 
 ## Live Demo
 
-- Live Site URL: [Here]()
+- Live Site URL: [Here](https://hudamab95.github.io/-Color-Scheme-Generator/)
